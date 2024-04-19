@@ -1,0 +1,79 @@
+/* *{ 
+    background-color: black;
+}*/
+.TableBox{
+    margin: 0; 
+    padding: 60;
+    height: 86px;
+    width: 67px;
+}
+.green{
+    background-color: #99e599;
+    /* margin: 0; */
+}
+.yellow{
+    background-color: #ffe57f;
+}
+.apricot{
+    background-color: #ffccb2;
+
+}
+.BigFootFeet{
+    background-color: #ea8350;
+}
+.SkyBlue{
+    background-color: #7fe5ef; 
+}
+.Lavender{
+    background-color: #9e87bd;
+}
+.PaleBlue{
+    background-color: #b2ccff;
+}
+.TealDeer{
+    background-color: #99efb2;
+}
+.ChineseSilver{
+    background-color: #cccccc;
+}
+.FreshAir{
+    background-color: #b2e5ff;
+}
+.pink{
+    background-color: #ffccef;
+}
+.text{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: center;
+    /* font-size: 12px; */
+    font-family: 'Times New Roman', Times, serif  ;
+    color: white;
+
+}
+h6{
+    text-size-adjust: 10px;
+    font-size: 13px;
+
+}
+.lowerRow{
+    border: 0;
+    height:  20px;
+}
+p{
+    margin: 0;
+    font-size: 10px;
+}
+h5{
+    /* font-size: larger; */
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+table{
+    width: 100%;
+} 
+td{
+    overflow: hidden!important;
+}
